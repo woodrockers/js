@@ -1450,7 +1450,7 @@ p {
   top: 0;
   height: 100%;
   width: 100%;
-  background-image: url(".../img/overlay.png");
+  background-image: url("https://woodroker.github.io/rnk/img/overlay.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
