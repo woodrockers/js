@@ -172,9 +172,12 @@ p {
   margin: 0px;
 }
 
-.portofolio,
 .portofolio img {
 	margin-top: 1.5rem;
+}
+
+.portofolio {
+	margin-top: 2rem;
 }
 
 .text-small {
