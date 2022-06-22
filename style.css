@@ -1170,7 +1170,7 @@ p {
   }
 }
 .services-eight .single-services {
-  padding: 20px;
+  padding: 30px;
   border: 1px solid var(--light-1);
   border-radius: 10px;
   margin-bottom: 30px;
@@ -1181,7 +1181,7 @@ p {
   transition: all 0.3s ease-out 0s;
 }
 
-.proyek{ padding: 20px;}
+.proyek{ padding: 30px;}
 
 .services-eight .single-services:hover .service-icon {
   color: var(--white);
