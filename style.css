@@ -1176,9 +1176,7 @@ p {
   -o-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
 }.proyek{ padding: 40px 30px;}
-.services-eight .single-services:hover {
-  box-shadow: var(--shadow-4);
-}
+
 .services-eight .single-services:hover .service-icon {
   color: var(--white);
   border-color: transparent;
