@@ -1181,7 +1181,7 @@ p {
   transition: all 0.3s ease-out 0s;
 }
 
-.proyek{ padding: 40px 30px;}
+.proyek{ padding: 20px;}
 
 .services-eight .single-services:hover .service-icon {
   color: var(--white);
